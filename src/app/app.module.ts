@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { Desafio1Component } from './desafio1/desafio1.component';
 import { AulasComponent } from './aulas/aulas.component';
+import { DesafioWhatsappComponent } from './desafio-whatsapp/desafio-whatsapp.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     Desafio1Component,
-    AulasComponent
+    AulasComponent,
+    DesafioWhatsappComponent
   ],
   imports: [
     BrowserModule,
