@@ -1,4 +1,27 @@
 header{
     background-color: #eeeeee;
+    
+}
+.h-header{
     height: 60px;
+}
+.h-img{
+    height: 50px;
+}
+.text-header{
+    color: #4d4d4d;
+}
+.text-small{
+    font-size: 0.7rem;
+    color: #999;
+}
+.text-small-badge{
+    font-size: 0.7rem;
+}
+.text-small-sidebar{
+    font-size: 0.8rem;
+}
+.bg-section-content{
+    background-color: #e5ddd5;
+    min-height: calc(100vh - 60px);
 }
